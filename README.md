@@ -22,3 +22,24 @@ Setup Nginx Server using Ubuntu 20.0
 
 Enable Nginx Service  to run
 ![image](https://user-images.githubusercontent.com/113097621/219213576-f8bbbdd5-2157-406b-a6f0-5e63398c6af2.png)
+
+Check Nginx Status
+![image](https://user-images.githubusercontent.com/113097621/219213829-562d39bb-4195-48d1-8713-a6e8c51e4b1b.png)
+
+Configure Nginx LB using Web Servers’ names defined in /etc/hosts
+![image](https://user-images.githubusercontent.com/113097621/219215690-06b03f7c-e112-4f2d-a8d5-55d1091683b0.png)
+
+Restart Nginx and make sure the service is up and running
+![image](https://user-images.githubusercontent.com/113097621/219216411-6da68a9f-78ff-4ea5-a389-b3986a1ec49e.png)
+
+Remove previous sites and make sure our Nginx is properly configured
+![image](https://user-images.githubusercontent.com/113097621/219216828-ced6df4e-82f5-433f-853d-c027d723f0ce.png)
+
+
+Link load balancer config file to our new site
+![image](https://user-images.githubusercontent.com/113097621/219218144-7f4b660a-01ca-4096-8d56-839d40ce4601.png)
+
+
+
+Register a new domain name and configure secured connection using SSL/TLS certificates
+
