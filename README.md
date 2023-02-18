@@ -59,6 +59,11 @@ sudo nginx -t && sudo nginx -s reload
 Create a Certificate for mydomain
 ![image](https://user-images.githubusercontent.com/113097621/219898745-6dd38522-dd37-48a0-8444-a4704673918a.png)
 
+![image](https://user-images.githubusercontent.com/113097621/219898781-b66d641c-ac1d-4394-9205-b1365521dc5e.png)
+
+![image](https://user-images.githubusercontent.com/113097621/219898798-38c1e2c9-942b-4ebe-a698-681cd5a6b1bb.png)
+
+
 
 Register a new domain name and configure secured connection using SSL/TLS certificates
 
