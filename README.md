@@ -39,7 +39,12 @@ Remove previous sites and make sure our Nginx is properly configured
 Link load balancer config file to our new site
 ![image](https://user-images.githubusercontent.com/113097621/219218144-7f4b660a-01ca-4096-8d56-839d40ce4601.png)
 
+![image](https://user-images.githubusercontent.com/113097621/219892486-ecd37ce8-308f-45eb-8ac3-09eb2e73d5ac.png)
 
+![image](https://user-images.githubusercontent.com/113097621/219892305-243ccc30-962d-4553-866d-bbec47d18eab.png)
 
 Register a new domain name and configure secured connection using SSL/TLS certificates
+
+
+
 
