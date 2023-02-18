@@ -43,6 +43,23 @@ Link load balancer config file to our new site
 
 ![image](https://user-images.githubusercontent.com/113097621/219892305-243ccc30-962d-4553-866d-bbec47d18eab.png)
 
+![image](https://user-images.githubusercontent.com/113097621/219894711-ba31e75b-d81f-4811-998e-1b9ba8745013.png)
+
+sudo apt install certbot -y
+
+![image](https://user-images.githubusercontent.com/113097621/219895073-26e89859-e700-46ae-94b4-36238adb7195.png)
+
+ sudo apt install python3-certbot-nginx -y
+ 
+ ![image](https://user-images.githubusercontent.com/113097621/219895536-3ca1fea9-9c8e-4476-ac43-35906decb49b.png)
+
+sudo nginx -t && sudo nginx -s reload
+![image](https://user-images.githubusercontent.com/113097621/219895787-86098adc-2d27-4f3d-af3b-ff5f73411ce1.png)
+
+Create a Certificate for mydomain
+![image](https://user-images.githubusercontent.com/113097621/219898745-6dd38522-dd37-48a0-8444-a4704673918a.png)
+
+
 Register a new domain name and configure secured connection using SSL/TLS certificates
 
 
