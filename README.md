@@ -63,7 +63,10 @@ Create a Certificate for mydomain
 
 ![image](https://user-images.githubusercontent.com/113097621/219898798-38c1e2c9-942b-4ebe-a698-681cd5a6b1bb.png)
 
+![image](https://user-images.githubusercontent.com/113097621/219947976-489fa1b5-6106-43b4-bf18-6edef14c1fc6.png)
 
+
+![image](https://user-images.githubusercontent.com/113097621/219947994-7d561eaa-af8f-4694-924e-e435ceee012e.png)
 
 Register a new domain name and configure secured connection using SSL/TLS certificates
 
